@@ -37,7 +37,7 @@ public class TimeText : MonoBehaviour
     void Update()
     {
       if (Input.GetKeyDown(KeyCode.T)){
-      text.text = "Trjactory time: " + Mathf.Round((float)ballProj.getTime(V*Mathf.Sin(ballAngle.angleVal * Mathf.Deg2Rad), ballHeight.self.position.y)*100f)* 0.01f + "s";//(float)ballHeight.self.position.y);
+      text.text = "Trajectory time: " + Mathf.Round((float)ballProj.getTime(V*Mathf.Sin(ballAngle.angleVal * Mathf.Deg2Rad), ballHeight.self.position.y)*100f)* 0.01f + "s";//(float)ballHeight.self.position.y);
       }
     }
 }
