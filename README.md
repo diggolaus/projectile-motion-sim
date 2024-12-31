@@ -1,4 +1,5 @@
 ![](https://github.com/diggolaus/projectile-motion-sim/blob/main/PMS%20vid.gif)
+<sub><sup>(gif sped up for example purposes)</sup></sub>
 
 # About the Projectile Motion Simulator 
 This projectile motion simulator was a project a friend and I developed for our Analytical Physics class. It is meant to be an interactive calculator with a visual aid. 
