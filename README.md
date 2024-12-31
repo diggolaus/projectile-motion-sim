@@ -29,9 +29,12 @@ Mouse Click - Aim and click on the screen the direction you intend to launch the
 ### Beginning Calculation:
 
 Return/Enter - to launch the projectile.
+
 Once the projectile has landed, perform the calculations:
 
 R - Calculates the total horizontal range the projectile travelled
+
 T - Calculates the total time the projectile was in the air, up until it hits the ground (or where the ground would be, if the projectile happens to overshoot)
+
 H - Calculates the maximum height the projectile reached during flight
 
