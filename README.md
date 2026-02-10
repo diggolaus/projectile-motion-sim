@@ -2,7 +2,7 @@
 <sub><sup>(gif sped up for example purposes)</sup></sub>
 
 # About the Projectile Motion Simulator 
-This projectile motion simulator was a project a friend and I developed for our Analytical Physics class. It is meant to be an interactive calculator with a visual aid. 
+This projectile motion simulator is a project I developed with a partner. It is meant to be an interactive calculator with a visual aid. 
 
 # To download
 The files I have here require Unity software to function. I have only included unique files in this respository, and the application can be replicated by downloading all files and pasting them into an existing, fresh Unity project.
